@@ -9,4 +9,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/1945-sum-of-digits-of-string-after-convert) |
+## Math
+|  |
+| ------- |
+| [2651-calculate-delayed-arrival-time](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/2651-calculate-delayed-arrival-time) |
 <!---LeetCode Topics End-->
