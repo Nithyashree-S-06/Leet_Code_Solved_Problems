@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2413-smallest-even-multiple](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/2413-smallest-even-multiple) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2651-calculate-delayed-arrival-time](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/2651-calculate-delayed-arrival-time) |
 | [3099-harshad-number](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/3099-harshad-number) |
@@ -40,4 +41,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2413-smallest-even-multiple](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
