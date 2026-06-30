@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1688-count-of-matches-in-tournament](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/1688-count-of-matches-in-tournament) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/1945-sum-of-digits-of-string-after-convert) |
 ## Math
 |  |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0263-ugly-number) |
 | [0728-self-dividing-numbers](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0728-self-dividing-numbers) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1688-count-of-matches-in-tournament](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/1688-count-of-matches-in-tournament) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/2427-number-of-common-factors) |
