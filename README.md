@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/2367-number-of-arithmetic-triplets) |
