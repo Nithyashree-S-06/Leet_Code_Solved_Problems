@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2129-capitalize-the-title](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/2129-capitalize-the-title) |
@@ -67,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2367-number-of-arithmetic-triplets](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/2367-number-of-arithmetic-triplets) |
+## Stack
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
