@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0724-find-pivot-index) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1480-running-sum-of-1d-array](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/1480-running-sum-of-1d-array) |
@@ -88,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0033-search-in-rotated-sorted-array) |
+## Sliding Window
+|  |
+| ------- |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 <!---LeetCode Topics End-->
