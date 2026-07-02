@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2651-calculate-delayed-arrival-time](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/2651-calculate-delayed-arrival-time) |
 | [3099-harshad-number](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/3099-harshad-number) |
 | [3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Array
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2367-number-of-arithmetic-triplets](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/2367-number-of-arithmetic-triplets) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
