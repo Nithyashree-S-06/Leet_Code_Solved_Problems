@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0033-search-in-rotated-sorted-array) |
+| [0374-guess-number-higher-or-lower](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0374-guess-number-higher-or-lower) |
 ## Sliding Window
 |  |
 | ------- |
@@ -104,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
