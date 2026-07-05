@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2651-calculate-delayed-arrival-time](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/2651-calculate-delayed-arrival-time) |
 | [3099-harshad-number](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/3099-harshad-number) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2367-number-of-arithmetic-triplets](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/2367-number-of-arithmetic-triplets) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/2574-left-and-right-sum-differences) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/2367-number-of-arithmetic-triplets) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## Sorting
 |  |
 | ------- |
