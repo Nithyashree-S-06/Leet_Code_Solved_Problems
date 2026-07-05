@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1446-consecutive-characters](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/1446-consecutive-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2129-capitalize-the-title](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/2129-capitalize-the-title) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/1672-richest-customer-wealth) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/2367-number-of-arithmetic-triplets) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/2367-number-of-arithmetic-triplets) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## Sorting
@@ -71,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3467-transform-array-by-parity](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/3467-transform-array-by-parity) |
 ## Number Theory
 |  |
@@ -87,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Two Pointers
 |  |
 | ------- |
