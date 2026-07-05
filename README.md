@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0263-ugly-number](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0263-ugly-number) |
 | [0728-self-dividing-numbers](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0728-self-dividing-numbers) |
+| [1323-maximum-69-number](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1688-count-of-matches-in-tournament](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/1688-count-of-matches-in-tournament) |
@@ -137,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/1672-richest-customer-wealth) |
+## Greedy
+|  |
+| ------- |
+| [1323-maximum-69-number](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/1323-maximum-69-number) |
 <!---LeetCode Topics End-->
