@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Array
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays) |
 | [3467-transform-array-by-parity](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Hash Table
 |  |
 | ------- |
