@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-number-of-common-factors](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/2427-number-of-common-factors) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2651-calculate-delayed-arrival-time](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/2651-calculate-delayed-arrival-time) |
+| [2843-count-symmetric-integers](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/2843-count-symmetric-integers) |
 | [3099-harshad-number](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/3099-harshad-number) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2367-number-of-arithmetic-triplets](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/2367-number-of-arithmetic-triplets) |
 | [2427-number-of-common-factors](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/2427-number-of-common-factors) |
+| [2843-count-symmetric-integers](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/2843-count-symmetric-integers) |
 ## Bit Manipulation
 |  |
 | ------- |
