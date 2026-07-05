@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1688-count-of-matches-in-tournament](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/1688-count-of-matches-in-tournament) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2235-add-two-integers](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/2427-number-of-common-factors) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
