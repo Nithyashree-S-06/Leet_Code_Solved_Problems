@@ -8,9 +8,22 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
+
+ //Optimal Approach
 class Solution {
     public ListNode middleNode(ListNode head) {
-        int mid=list_length(head);
+        ListNode slow=head;
+        ListNode fast=head;
+        while(fast!=null && fast.next!=null){
+            slow=slow.next;
+            fast=fast.next.next;
+        }
+        return slow;
+    }
+}
+
+//Another Approach
+/*int mid=list_length(head);
         ListNode temp=head;
         for(int i=1; i<mid; i++){
             temp=temp.next;
@@ -25,5 +38,4 @@ class Solution {
             temp=temp.next;
         }
         return (cnt/2)+1;
-    }
-}
+    }*/
