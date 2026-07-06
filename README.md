@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0238-product-of-array-except-self) |
 | [0575-distribute-candies](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0575-distribute-candies) |
+| [0706-design-hashmap](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0724-find-pivot-index) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0242-valid-anagram](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0242-valid-anagram) |
 | [0575-distribute-candies](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0575-distribute-candies) |
+| [0706-design-hashmap](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0706-design-hashmap) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/2367-number-of-arithmetic-triplets) |
@@ -169,10 +171,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0142-linked-list-cycle-ii) |
+| [0706-design-hashmap](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0706-design-hashmap) |
 | [0707-design-linked-list](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0876-middle-of-the-linked-list) |
 ## Design
 |  |
 | ------- |
+| [0706-design-hashmap](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0706-design-hashmap) |
 | [0707-design-linked-list](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0707-design-linked-list) |
+## Hash Function
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
