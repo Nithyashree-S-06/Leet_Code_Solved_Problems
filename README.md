@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0048-rotate-image) |
 | [0263-ugly-number](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0263-ugly-number) |
 | [0728-self-dividing-numbers](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0728-self-dividing-numbers) |
 | [1323-maximum-69-number](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/1323-maximum-69-number) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0033-search-in-rotated-sorted-array) |
+| [0048-rotate-image](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0048-rotate-image) |
 | [0238-product-of-array-except-self](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0238-product-of-array-except-self) |
 | [0575-distribute-candies](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0575-distribute-candies) |
 | [0706-design-hashmap](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0706-design-hashmap) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0048-rotate-image) |
 | [1672-richest-customer-wealth](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/1672-richest-customer-wealth) |
 ## Greedy
 |  |
