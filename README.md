@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0074-search-a-2d-matrix) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0238-product-of-array-except-self) |
 | [0575-distribute-candies](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0575-distribute-candies) |
 | [0706-design-hashmap](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0706-design-hashmap) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0142-linked-list-cycle-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0876-middle-of-the-linked-list) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/2367-number-of-arithmetic-triplets) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0074-search-a-2d-matrix) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0374-guess-number-higher-or-lower](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0374-guess-number-higher-or-lower) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sliding Window
