@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0048-rotate-image) |
 | [0263-ugly-number](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0263-ugly-number) |
+| [0509-fibonacci-number](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0728-self-dividing-numbers) |
 | [1323-maximum-69-number](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -224,9 +225,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0234-palindrome-linked-list) |
+| [0509-fibonacci-number](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0509-fibonacci-number) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0232-implement-queue-using-stacks) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
