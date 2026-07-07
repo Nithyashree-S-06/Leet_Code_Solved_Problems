@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/1688-count-of-matches-in-tournament) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/2169-count-operations-to-obtain-zero) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Math
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2651-calculate-delayed-arrival-time](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/2651-calculate-delayed-arrival-time) |
 | [2843-count-symmetric-integers](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/2843-count-symmetric-integers) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3099-harshad-number](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/3099-harshad-number) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/2574-left-and-right-sum-differences) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0074-search-a-2d-matrix) |
 | [0867-transpose-matrix](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0867-transpose-matrix) |
 | [1672-richest-customer-wealth](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/1672-richest-customer-wealth) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Greedy
 |  |
 | ------- |
