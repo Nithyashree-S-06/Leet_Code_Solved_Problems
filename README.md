@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0258-add-digits) |
 | [0867-transpose-matrix](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0867-transpose-matrix) |
 | [1688-count-of-matches-in-tournament](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/1688-count-of-matches-in-tournament) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/1945-sum-of-digits-of-string-after-convert) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0048-rotate-image) |
+| [0258-add-digits](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0263-ugly-number) |
 | [0509-fibonacci-number](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0728-self-dividing-numbers) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/2427-number-of-common-factors) |
