@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Array
