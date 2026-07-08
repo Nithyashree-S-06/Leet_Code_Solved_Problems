@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0728-self-dividing-numbers) |
 | [1323-maximum-69-number](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/1323-maximum-69-number) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0342-power-of-four) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/3370-smallest-number-with-all-set-bits) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0509-fibonacci-number) |
 ## Queue
 |  |
