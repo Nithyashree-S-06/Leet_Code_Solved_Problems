@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0724-find-pivot-index) |
 | [0867-transpose-matrix](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0867-transpose-matrix) |
+| [0904-fruit-into-baskets](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0904-fruit-into-baskets) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0242-valid-anagram) |
 | [0575-distribute-candies](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0575-distribute-candies) |
 | [0706-design-hashmap](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0706-design-hashmap) |
+| [0904-fruit-into-baskets](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0904-fruit-into-baskets) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/2367-number-of-arithmetic-triplets) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0904-fruit-into-baskets](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0904-fruit-into-baskets) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Monotonic Stack
