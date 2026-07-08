@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0048-rotate-image) |
+| [0231-power-of-two](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0263-ugly-number) |
 | [0509-fibonacci-number](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0509-fibonacci-number) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0231-power-of-two) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/3370-smallest-number-with-all-set-bits) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0509-fibonacci-number) |
 ## Queue
