@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0728-self-dividing-numbers) |
+| [0779-k-th-symbol-in-grammar](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0779-k-th-symbol-in-grammar) |
 | [1323-maximum-69-number](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0342-power-of-four) |
+| [0779-k-th-symbol-in-grammar](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0779-k-th-symbol-in-grammar) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/3370-smallest-number-with-all-set-bits) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0509-fibonacci-number) |
+| [0779-k-th-symbol-in-grammar](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0779-k-th-symbol-in-grammar) |
 ## Queue
 |  |
 | ------- |
