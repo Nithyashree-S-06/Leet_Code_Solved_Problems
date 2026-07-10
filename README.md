@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0724-find-pivot-index) |
 | [0867-transpose-matrix](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0867-transpose-matrix) |
+| [0896-monotonic-array](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0896-monotonic-array) |
 | [0904-fruit-into-baskets](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0904-fruit-into-baskets) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
