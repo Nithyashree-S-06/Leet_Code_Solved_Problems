@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0283-move-zeroes) |
 | [0575-distribute-candies](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0575-distribute-candies) |
 | [0706-design-hashmap](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0724-find-pivot-index) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0876-middle-of-the-linked-list) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/2367-number-of-arithmetic-triplets) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
