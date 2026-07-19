@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0242-valid-anagram) |
 | [1446-consecutive-characters](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/1446-consecutive-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0033-search-in-rotated-sorted-array) |
@@ -305,4 +307,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0104-maximum-depth-of-binary-tree) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
