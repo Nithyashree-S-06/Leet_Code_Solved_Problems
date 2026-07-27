@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0283-move-zeroes) |
 | [0575-distribute-candies](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0575-distribute-candies) |
+| [0605-can-place-flowers](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0605-can-place-flowers) |
 | [0706-design-hashmap](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0724-find-pivot-index) |
 | [0867-transpose-matrix](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0867-transpose-matrix) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0409-longest-palindrome) |
+| [0605-can-place-flowers](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0605-can-place-flowers) |
 | [1323-maximum-69-number](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/1323-maximum-69-number) |
 ## Linked List
 |  |
