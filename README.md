@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0283-move-zeroes) |
+| [0560-subarray-sum-equals-k](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0605-can-place-flowers) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0409-longest-palindrome) |
+| [0560-subarray-sum-equals-k](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0706-design-hashmap](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0706-design-hashmap) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/1480-running-sum-of-1d-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/2574-left-and-right-sum-differences) |
