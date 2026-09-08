@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0014-longest-common-prefix) |
+| [0016-3sum-closest](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0033-search-in-rotated-sorted-array) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0016-3sum-closest) |
 | [0217-contains-duplicate](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0242-valid-anagram) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Nithyashree-S-06/Leet_Code_Solved_Problems/tree/master/0027-remove-element) |
